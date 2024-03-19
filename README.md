@@ -4,6 +4,13 @@
 
 This project is a human 3D model component with a spotlight feature. The spotlight can be used to point focus on a specific zone of the body on click, similar to a slider that changes the focus. It provides an interactive way to explore different parts of the human body.
 
+## Preview
+You can see the preview [here](https://human-3d-component.vercel.app/)
+
+### Technologies Used
+
+![React Logo](https://img.icons8.com/color/48/000000/react-native.png) ![Vite Logo](https://vitejs.dev/logo.svg) ![Tailwind CSS Logo](https://img.icons8.com/color/48/000000/tailwind-css.png)
+
 
 ## Installation
 
