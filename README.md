@@ -9,7 +9,8 @@ You can see the preview [here](https://human-3d-component.vercel.app/)
 
 ### Technologies Used
 
-![React Logo](https://img.icons8.com/color/48/000000/react-native.png) ![Vite Logo](https://vitejs.dev/logo.svg) ![Tailwind CSS Logo](https://img.icons8.com/color/48/000000/tailwind-css.png)
+[![React Logo](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/) [![Vite Logo](https://vitejs.dev/logo.svg)](https://vitejs.dev/) [![Tailwind CSS Logo](https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png)](https://tailwindcss.com/)
+
 
 
 ## Installation
